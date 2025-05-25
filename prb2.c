@@ -54,7 +54,7 @@ int main()
     {
         printf("%d ", arr[i]);
     }
-
+    printf("\n");
     printf("Enter the registration number :\n ");
     scanf("%d", &x);
 
