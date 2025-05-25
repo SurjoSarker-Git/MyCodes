@@ -55,7 +55,7 @@ int main()
         printf("%d ", arr[i]);
     }
 
-    printf("Enter the registration number : ");
+    printf("Enter the registration number :\n ");
     scanf("%d", &x);
 
     int result= binarysearch(arr, 0, n - 1, x);
