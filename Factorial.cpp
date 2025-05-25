@@ -17,3 +17,14 @@ int main()
 
     cout<<fact(num);
 }
+
+/* return type void:-
+
+    void fact(int n)
+    {
+        if(n==0||n==1)
+        cout<< 1;
+        else
+        cout<< n*fact(n-1);
+    }
+*/
